@@ -2,10 +2,7 @@
 ||play-lh.googleusercontent.com^$ctag=device_phone
 ||play-games.googleusercontent.com^$ctag=device_phone
 ||googlevideo.com^$ctag=device_phone
-
 127.0.0.1 moovit.com^$ctag=device_phone
-
-
 127.0.0.1 waze.com^$ctag=device_phone
 ||support.google.com^$ctag=device_phone
 ||social.waze.co.il^$ctag=device_phone
@@ -13,18 +10,15 @@
 ||ads-resources-legacy.waze.com^$ctag=device_phone
 ||ads-resources.waze.com^$ctag=device_phone
 ||venue-image.waze.com^$ctag=device_phone
-
 ||samsung.com^$ctag=device_phone
 ||policies.google.com^$ctag=device_phone
 ||api.samsungconsent.com^$ctag=device_phone
 ||terms.samsungconsent.com^$ctag=device_phone
 ||policies.account.samsung.com^$ctag=device_phone
-
 127.0.0.1 pango.co.il^$ctag=device_phone
 ||pangoflights.skygini.com^$ctag=device_phone
 ||pango.world8.co.il^$ctag=device_phone
 ||bit.ly^$ctag=device_phone
-
 ||faq.whatsapp.com^$ctag=device_phone
 ||help.content.samsung.com^$ctag=device_phone
 ||vas.samsungapps.com^$ctag=device_phone
@@ -79,3 +73,4 @@
 ||graph.facebook.com^$ctag=device_phone
 ||googleads.g.doubleclick.net^$ctag=device_phone
 ||facebook.com^$ctag=device_phone
+||instagram.com^$ctag=device_phone
